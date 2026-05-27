@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantio Direto na Palha</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Plantio Direto na Palha</h1>
+        <p>O plantio direto na palha é uma técnica agrícola que visa a conservação do solo e a redução da erosão. Essa prática consiste em semear diretamente sobre a palha de culturas anteriores, mantendo a cobertura do solo.</p>
+        <h2>Benefícios:</h2>
+        <ul>
+            <li>Redução da erosão do solo</li>
+            <li>Melhoria da fertilidade do solo</li>
+            <li>Economia de água</li>
+            <li>Menor uso de herbicidas</li>
+        </ul>
+        <h2>Considerações:</h2>
+        <p>É importante realizar um manejo adequado das palhadas e escolher culturas que se adaptem bem a essa técnica.</p>
+    </div>
+</body>
+</html>
